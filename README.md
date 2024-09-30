@@ -10,8 +10,9 @@
 <p>Phương pháp này dựa trên ngày sinh của bạn và Kiến thức cổ xưa về 22 nguồn năng lượng chính của Vũ trụ. Mục đích của phương pháp này nó không chỉ cung cấp cho bạn một hệ thống tọa độ mà còn cung cấp cho bạn các đề xuất thiết thực để cải thiện điểm đến của bạn.</p>
 <hr>
 <p style="text-align: center"><em><strong><a href="https://kabala.vn/san-pham/kabala-matrix-bao-cao-ma-tran-dinh-menh/">Báo cáo Matrix Destiny</a></strong> | <a href="https://matrix-destiny.kabala.vn/?today=1" rel="nofollow">Matrix Destiny Today</a> | <a href="https://lasotuvi.kabala.vn/chart/?chart=matrix">Thư viện Matrix Destiny Chart 8000+ người nổi tiếng</a> | <a href="https://hoc.kabala.vn/matrix-destiny-chart/">Đọc thêm kiến thức Matrix Destiny</a></em></p>
-<hr/>
 
+_Bạn có thể sử dụng **https://matrix.kabala.vn/?birth=1964-18-01** với **năm-ngày-tháng** để tùy chỉnh biểu đồ matrix destiny chart._
+<hr>
 # Cách xem Matrix Destiny Chart đơn giản mà chính xác nhất
 
 <h2 id="h-web-to-matrix-destiny-chart-min-phi" class="wp-block-heading ftwp-heading"><span id="Web_tao_Matrix_Destiny_Chart_mien_phi"><strong>Web tạo Matrix Destiny Chart miễn phí</strong></span></h2>
